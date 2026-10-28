@@ -36,7 +36,7 @@ MJWHKZLTNBUXE5A fro mthe case-debrief.pdf which is the machine ID gives us blues
 **Marketplace**
 - Four tabs: contracts, substances, hitmen for hire and enslavement records. Completed contracts sort to the end.
 - Posting listings with an image upload or preset. Contracts also need a location chosen on a map, with a "use my location" button.
-- Substances have a cart and checkout, with a dead drop or a hand-delivered option (extra fee).
+- Substances have a cart and checkout, with a dead drop or a hand-delivered option (extra fee). PLEASE TRY BUYING SOMETHING I WORKED HARD ON THE ANIMATION :D
 - Checkout ends in an animation of an eye darting left and right and zooming in until the screen goes black. Then a red tick shows "Order confirmed", a date three days away, and a chime.
 - Hiring a hitman takes a target name, last-seen place, occupation, details and photos.
 - Accepting a contract or task, then submitting photo proof. Admins grade the proof from 0 to 100 and the payout is that share of the reward.
