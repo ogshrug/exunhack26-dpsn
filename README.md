@@ -1,20 +1,7 @@
 # THURIBLES
 
-A fictional underground organisation and its members-only web app, built for Exun 2026 (Build track). Everything in it, including the people, the contracts and the money, is made up.
-
 Public link: https://thuribles.vercel.app
 
-## What is in it
-
-- Landing page with a revolving globe that pings every capital city
-- Sign in with a face scan (camera) or a username and password, for both members and admins
-- Home with the latest substances, contracts and enslavement records, plus a map of contracts and bunker sites
-- Marketplace for contracts, substances, hitmen for hire and enslavement records, with a cart and checkout
-- Wallet with transfers between members, bit deposits from BTC or BNB, and reserved amounts for open hits and contracts
-- Admin economy dashboard showing the money in circulation and what is moving
-- Global chat with replies, reactions and pinned messages
-- Board where admins post news and videos
-- Sosumi, a 3D city where properties are bought with bits
 
 ## Running it locally
 
