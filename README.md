@@ -16,6 +16,64 @@ MJWHKZLTNBUXE5A fro mthe case-debrief.pdf which is the machine ID gives us blues
 
 ![Initial Ideation](docs/ideation.png)
 
+## Features
+
+**Landing and sign-in**
+- Landing page with a revolving 3D globe that pings every capital city with a beep. Audio starts after the first click.
+- Face sign-in through the camera, using an in-browser face match.
+- Username and password sign-in as an alternative.
+- Face ID is optional at sign-up. Without one you can browse but not hire, accept contracts or buy in Sosumi. You can add it later.
+- Admin sign-up with an invite code. Existing members can raise themselves to admin with the code.
+- Starting balance of 500 bits for new members.
+- The globe also runs faintly behind every app page.
+
+**Home**
+- Hero with a swinging thurible that reveals the name, and the line "Welcome the new reign".
+- Three columns showing the latest substances, contracts and enslavement records, five each, with "See all" links.
+- A live map of open contracts and the 55 bunker sites, with the closest six contracts listed. Contracts you've accepted show green, and completed ones are hidden.
+- Stats row.
+
+**Marketplace**
+- Four tabs: contracts, substances, hitmen for hire and enslavement records. Completed contracts sort to the end.
+- Posting listings with an image upload or preset. Contracts also need a location chosen on a map, with a "use my location" button.
+- Substances have a cart and checkout, with a dead drop or a hand-delivered option (extra fee).
+- Checkout ends in an animation of an eye darting left and right and zooming in until the screen goes black. Then a red tick shows "Order confirmed", a date three days away, and a chime.
+- Hiring a hitman takes a target name, last-seen place, occupation, details and photos.
+- Accepting a contract or task, then submitting photo proof. Admins grade the proof from 0 to 100 and the payout is that share of the reward.
+- "My activity" shows your jobs, hires and orders. Admins also see all hit requests and the proofs waiting for grading.
+- Admins get a hit-control table.
+
+**Money**
+- A transaction ledger records every movement of bits.
+- Hiring a hitman and posting a contract or task reserve the amount from your balance. The funds are released on completion, or refunded if the hit is declined or the listing is removed.
+- Wallet page with available and reserved bits, transfers to other members by handle, and a transaction history.
+- Exchange page converting Bitcoin or Binance into bits at live rates.
+- The balance shows in the navbar and account menu.
+- Buying properties in Sosumi costs bits.
+
+**Admin economy dashboard**
+- Money in circulation, deposits, volume in the last 24 hours, member transfers, a 14-day volume chart, a breakdown by type and the biggest holders.
+- Live transaction feed.
+- Figures of 13 digits or more switch to scientific notation.
+
+**Chat**
+- One global group chat with replies and reactions (heart, thumbs up, smile, laugh, cry).
+- Admins can pin messages.
+- Live updates.
+
+**Board**
+- Admin-only posting, with optional video upload. The latest post is shown big and bold.
+- Everyone else reacts with the same emojis.
+- Custom video player with play/pause, volume, mute and a red seek bar.
+
+**Sosumi**
+- A 3D city you can rotate and zoom, with 120 properties: 40 plots, 40 houses and 40 apartments.
+- Click a property to see its price and owner, and buy it (with Face ID).
+- Ownership updates live.
+
+**Content**
+- Seven teammate contracts with harmless tasks, 20 game-character enslavement tasks, 3 hitmen and 9 substances.
+
 ## Running it locally
 
 You need Node.js 20 or newer and a modern browser. Chrome is recommended because the face scan uses the camera.
