@@ -8,8 +8,10 @@ admin coupon is toor , but i would suggest you try out the face login etc.
 After the concierge of crime and his partners realized that hiding in source code could be a way to escape the watchful eyes of the government and act as a bunker for their secrets and wealth transferred seamlessly from reality to the extradigital world, they jumped on the opportunity and build thuribles which facilitates multiple services and more.
 
 This entire story + the thought was brought to you by my excessive consumption of crime and detective films and tv shows including but not limited to The Blacklist , John Wick , 007 etc etc. Hope you enjoy my idea of a dark marketplace.
-##Why Thuribles
+
+## Why Thuribles
 MJWHKZLTNBUXE5A fro mthe case-debrief.pdf which is the machine ID gives us blueshirt when you decode it in base32 and an anagram of blueshirt is thuribles - which is basically an incense holder
+
 ## Running it locally
 
 You need Node.js 20 or newer and a modern browser. Chrome is recommended because the face scan uses the camera.
