@@ -1,7 +1,8 @@
 # THURIBLES
 
 Public link: https://thuribles.vercel.app
-
+if you want a throwaway account to test stuff on : user: fff , pass:123
+admin coupon is toor , but i would suggest you try out the face login etc.
 ## Story
 
 After the concierge of crime and his partners realized that hiding in source code could be a way to escape the watchful eyes of the government and act as a bunker for their secrets and wealth transferred seamlessly from reality to the extradigital world, they jumped on the opportunity and build thuribles which facilitates multiple services and more.
