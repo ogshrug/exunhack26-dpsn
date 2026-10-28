@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="hsl(5 60% 14%)"/><stop offset="1" stop-color="hsl(45 70% 5%)"/></linearGradient>
+<pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="hsl(5 50% 40%)" stroke-opacity=".18"/></pattern></defs>
+<rect width="800" height="600" fill="url(#g)"/><rect width="800" height="600" fill="url(#p)"/>
+<ellipse cx="390" cy="240" rx="170" ry="112" transform="rotate(-14 390 240)" fill="none" stroke="hsl(5 90% 68%)" stroke-width="9"/><ellipse cx="390" cy="240" rx="170" ry="112" transform="rotate(-14 390 240)" fill="none" stroke="#0e0e0e" stroke-opacity=".55" stroke-width="9" stroke-dasharray="3 15"/><circle cx="538" cy="292" r="17" fill="none" stroke="hsl(5 90% 68%)" stroke-width="9"/><path d="M544 308C566 380 470 410 502 468S590 540 640 506" fill="none" stroke="hsl(5 90% 68%)" stroke-width="9" stroke-linecap="round"/><path d="M544 308C566 380 470 410 502 468S590 540 640 506" fill="none" stroke="#0e0e0e" stroke-opacity=".55" stroke-width="9" stroke-linecap="round" stroke-dasharray="3 15"/><path d="M640 506l30-18M640 506l34 6" stroke="hsl(5 90% 68%)" stroke-width="6" stroke-linecap="round"/>
+</svg>
