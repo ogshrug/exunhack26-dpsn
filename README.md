@@ -12,6 +12,10 @@ This entire story + the thought was brought to you by my excessive consumption o
 ## Why Thuribles
 MJWHKZLTNBUXE5A fro mthe case-debrief.pdf which is the machine ID gives us blueshirt when you decode it in base32 and an anagram of blueshirt is thuribles - which is basically an incense holder
 
+## Initial Ideation
+
+![Initial Ideation](docs/ideation.png)
+
 ## Running it locally
 
 You need Node.js 20 or newer and a modern browser. Chrome is recommended because the face scan uses the camera.
