@@ -72,7 +72,7 @@ MJWHKZLTNBUXE5A fro mthe case-debrief.pdf which is the machine ID gives us blues
 - Ownership updates live.
 
 **Content**
-- Seven teammate contracts with harmless tasks, 20 game-character enslavement tasks, 3 hitmen and 9 substances.
+- Seven teammate contracts with tasks, 20 game-character enslavement tasks, 3 hitmen and 9 substances.
 
 ## Running it locally
 
