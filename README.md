@@ -42,8 +42,6 @@ To make a production build, run `npm run build`. The output goes to `dist/` and 
 
 ## Backend
 
-The Supabase project this app talks to is the author's own, and running the app locally uses that hosted project. The database schema is in `supabase/migrations`, applied in file order. The Edge Function code is not included.
-
 Services used: Postgres with row level security, Auth, Realtime, Storage and Edge Functions.
 
 ### Tables
